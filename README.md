@@ -1,1 +1,1 @@
-# pass_phrase_generator
+## The code generates a secure pronouncable password 
