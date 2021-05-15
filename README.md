@@ -3,7 +3,7 @@
 ## Sample output
 Password has 21 characters \
 Your password is : \
-Wisdom-Work-Station-5 \
+Wisdom-Work-Station-5 
 
 You can check strength of your password on below websites : \
 https://howsecureismypassword.net/ \
