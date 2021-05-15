@@ -1,1 +1,1 @@
-The code generates a secure pronouncable password 
+# The code generates a secure pronouncable password 
